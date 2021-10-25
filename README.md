@@ -6,7 +6,7 @@
 .NET-Framework 4.8
 EntityFramework - Npgsql.EntityFramework.PostgreSQL v.3.1.18
 ### C++
-C++ Standart 14
+C++ Standart 14"\n"
 Вместо БД использовались файловая система Linux
 
 ## Что будет исправленно/добавлено
