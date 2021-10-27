@@ -1,1 +1,0 @@
-void Open_Write(std::string, std::string, std::string, int);
