@@ -7,7 +7,7 @@
 
 EntityFramework - Npgsql.EntityFramework.PostgreSQL v.3.1.18
 ### C++
-C++ Standart 14
+C++ Standart 17
 
 Вместо БД использовалась файловая система Linux
 
