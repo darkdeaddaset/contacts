@@ -4,6 +4,8 @@
 ## Использовались
 ### C#
 .NET-Framework 4.8
+## WPF
+SQL Server
 
 EntityFramework - Npgsql.EntityFramework.PostgreSQL v.3.1.18
 ### C++
