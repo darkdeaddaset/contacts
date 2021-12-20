@@ -34,7 +34,7 @@ JDBC postgresql-42.3.1.jar
 3) Просмотреть список контактов
 4) Совершить изменения в контакте a) Изменить имя b) Изменить номер c) Изменить электронную почту
 5) Удалить контакт
-
+[Image alt](https://github.com/darkdeaddaset/contacts/blob/main/notebook_version_cs/contacts/01.PNG)
 
 ### C++
 1) Создать новый контакт
