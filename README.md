@@ -15,6 +15,7 @@ C++ Standart 17
 
 ### Java
 SDK 17
+Hibernate
 JDBC postgresql-42.3.1.jar
 
 
